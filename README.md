@@ -1,6 +1,6 @@
 ![Logo](https://static.wikia.nocookie.net/cd6469f0-a8d5-46e8-aa3d-fd93defc44b7)
 
-**Download the latest release [here](https://sonicrunners.com/#/download)**
+**Download Sonic Runners Revival [here](https://sonicrunners.com/#/download)**
 
 
 # Sonic Runners Revival
